@@ -66,7 +66,7 @@
 2. **訂閱添加** ： 點擊右上角 【**➕號**】- 類別選擇【**Subscribe**】 - 【**URL**】粘貼自己的連結 - 【**完成**】
 3. **更新訂閱** ： 右滑添加進來的訂閱 - 點擊【**更新**】即可
 
-![image]([https://github.com/hkjswong/ios-proxy-tool-basic-knowledge/blob/main/%E8%A8%82%E9%96%B1%E6%9B%B4%E6%96%B0.jpeg])
+![image](https://github.com/hkjswong/ios-proxy-tool-basic-knowledge/blob/main/%E8%A8%82%E9%96%B1%E6%9B%B4%E6%96%B0.jpeg)
 
 ### 聯繫方式 :bell:
 
