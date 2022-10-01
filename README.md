@@ -29,7 +29,6 @@
 - [Loon 售價 HKD38.00](https://apps.apple.com/hk/app/loon/id1373567447)
 - [Shadowrocket 售價 HKD23.00](https://apps.apple.com/hk/app/shadowrocket/id932747118)
 
-
 ## Quantumultx功能介紹 ｜ Version ： Quantumult X 1.0.30-707
 
 1. **流量走向** ： 長按右下角的三菱圖標 - 橘黃色為PAC模式，藍色為全局模式
@@ -40,6 +39,7 @@
 5. **重寫功能** ： 點擊三菱的圖標 - 在【**重寫**】那邊開啟即可
 6. **節點ISP的查詢** ： 任選一個節點，在左上角會自動顯示
 7. **正版與盜版檢測** ： 點擊右下角的三菱圖標 - 下滑到【**其他設置**】- 下滑到最底部 
+
 ![image]([[https://github.com/hkjswong/shadowsocksR-setup/blob/master/%E5%BE%AE%E4%BF%A1%E5%85%AC%E7%9C%BE%E8%99%9F.jpg](https://github.com/hkjswong/ios-proxy-tool-basic-knowledge/blob/main/%E8%A8%82%E9%96%B1%E6%9B%B4%E6%96%B0.jpeg)](https://github.com/hkjswong/ios-proxy-tool-basic-knowledge/blob/main/quantumultx.jpeg))
 
 
@@ -65,6 +65,7 @@
 1. **流量走向** ： 點擊第二行的【**全域路由**】 - 可選擇配置（PAC） / 代理（Global）/直連等等
 2. **訂閱添加** ： 點擊右上角 【**➕號**】- 類別選擇【**Subscribe**】 - 【**URL**】粘貼自己的連結 - 【**完成**】
 3. **更新訂閱** ： 右滑添加進來的訂閱 - 點擊【**更新**】即可
+
 ![image]([https://github.com/hkjswong/shadowsocksR-setup/blob/master/%E5%BE%AE%E4%BF%A1%E5%85%AC%E7%9C%BE%E8%99%9F.jpg](https://github.com/hkjswong/ios-proxy-tool-basic-knowledge/blob/main/%E8%A8%82%E9%96%B1%E6%9B%B4%E6%96%B0.jpeg))
 
 ### 聯繫方式 :bell:
