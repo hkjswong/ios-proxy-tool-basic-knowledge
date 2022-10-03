@@ -34,7 +34,10 @@
 1. **流量走向** ： 長按右下角的三菱圖標 - 橘黃色為PAC模式，藍色為全局模式
 2. **訂閱添加** ： 點擊右下角的三菱圖標 - 點擊 【**節點**】里的【**引用（訂閱）**】 - 【右上角📎圖標】 - 添加機場訂閱即可
 3. **QuantumultX解析器** ：點擊三菱圖標 - 點擊 【**配置文件**】裡的【**編輯**】 - 點擊第一個圖標 定位到General - 去點resource_parser_url前面的冒號 - 將下方解析器的連結粘貼近來即可
-> https://github.com/KOP-XIAO/QuantumultX/blob/master/Scripts/resource-parser.js
+
+> resource_parser_url = https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/resource-parser.js
+
+
 4. **MitM** : 點擊三菱圖標 - 點擊【**MitM**】- 【**配置證書**】- 允許Safari瀏覽器下載描述文件 - 進入手機的設置，安裝描述文件 - 點擊【**關於本機**】-下滑到【**證書信任列表設定**】- 信任剛剛下載的配置文件
 5. **重寫功能** ： 點擊三菱的圖標 - 在【**重寫**】那邊開啟即可
 6. **節點ISP的查詢** ： 任選一個節點，在左上角會自動顯示
